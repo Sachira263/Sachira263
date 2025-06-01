@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachira263&label=Profile%20views&color=0e75b6&style=flat" alt="sachira263" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+-  I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Java**
+-  Ask me about **Java**
 
-- 📫 How to reach me **sachirasanthush81@gmail.com**
+-  How to reach me **sachirasanthush81@gmail.com**
 
-- ⚡ Fun fact **Sachi**
+-  Fun fact **Sachi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
