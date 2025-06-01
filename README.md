@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachira Santhush Nadeesharika</h1>
 
 <h3 align="center">I'm passionate about building smart, user-friendly applications and exploring the intersection of hardware and software</h3>
----
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachira263&label=Profile%20views&color=0e75b6&style=flat" alt="sachira263" /> </p>
 
 -  I’m currently learning **Spring Boot**
