@@ -1,171 +1,119 @@
-<style>
-  body {
-    background: linear-gradient(to bottom, #FFFFFF, #ADD8E6);
-    margin: 0;
-    padding: 0;
-    min-height: 100vh;
-  }
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Sachira — IoT Profile</title>
 
-  /* Smooth fade-in for header */
-  .fade-in {
-    animation: fade 2s ease-in-out infinite alternate;
-  }
-  @keyframes fade {
-    0% { opacity: 0.6; }
-    100% { opacity: 1; }
-  }
+  <style>
+    :root {
+      --bg1: #FFFFFF;
+      --bg2: #ADD8E6;
+      --accent: #0066cc;
+      --iot-green: #00ff00;
+      --iot-dark: #006400;
+    }
 
-  /* Slide effect for tagline */
-  .slide-in {
-    animation: slide 3s infinite alternate;
-  }
-  @keyframes slide {
-    0% { transform: translateX(-10px); }
-    100% { transform: translateX(10px); }
-  }
+    html,body {
+      height:100%;
+      margin:0;
+      font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+      background: linear-gradient(to bottom, var(--bg1), var(--bg2));
+      color:#000;
+    }
 
-  /* IoT LED blink */
-  .led-blink {
-    animation: blink 1s infinite;
-  }
-  @keyframes blink {
-    0% { background: #00ff00; box-shadow: 0 0 10px #00ff00; }
-    50% { background: #006400; box-shadow: none; }
-    100% { background: #00ff00; box-shadow: 0 0 10px #00ff00; }
-  }
+    .container{max-width:980px;margin:24px auto;padding:18px}
 
-  /* Sensor rotation animation */
-  .sensor-rotate {
-    animation: rotate 4s infinite linear;
-  }
-  @keyframes rotate {
-    from { transform: rotate(0deg); }
-    to { transform: rotate(360deg); }
-  }
+    .header-img{
+      display:block;
+      margin:0 auto 12px;
+      border-radius:12px;
+      box-shadow:0 6px 18px rgba(0,0,0,0.08);
+    }
 
-  /* Data pulse effect */
-  .data-pulse {
-    animation: pulse 1.5s infinite;
-  }
-  @keyframes pulse {
-    0% { transform: scale(1); box-shadow: 0 0 5px #00f; }
-    50% { transform: scale(1.2); box-shadow: 0 0 20px #0ff; }
-    100% { transform: scale(1); box-shadow: 0 0 5px #00f; }
-  }
+    .fade-in{ animation:fade 2s ease-in-out infinite alternate; }
+    @keyframes fade { 0%{opacity:.6} 100%{opacity:1} }
 
-  /* Wireless signal wave */
-  .signal-wave {
-    animation: wave 2s infinite;
-  }
-  @keyframes wave {
-    0% { box-shadow: 0 0 0 0 rgba(0, 255, 0, 0.5); }
-    70% { box-shadow: 0 0 0 15px rgba(0, 255, 0, 0); }
-    100% { box-shadow: 0 0 0 0 rgba(0, 255, 0, 0.5); }
-  }
+    .slide-in{ animation:slide 3s infinite alternate; }
+    @keyframes slide { 0%{transform:translateX(-10px)} 100%{transform:translateX(10px)} }
 
-  .datetime {
-    font-size: 16px;
-    color: #000000;
-    margin-top: 10px;
-  }
-</style>
+    .led-blink{ width:14px;height:14px;border-radius:50%;display:inline-block;margin-right:10px;
+      animation:ledblink 1s infinite; vertical-align:middle;
+      box-shadow:0 0 10px rgba(0,255,0,0.6);
+      background:var(--iot-green);
+    }
+    @keyframes ledblink{
+      0%{background:var(--iot-green);box-shadow:0 0 10px rgba(0,255,0,0.6)}
+      50%{background:var(--iot-dark);box-shadow:none}
+      100%{background:var(--iot-green);box-shadow:0 0 10px rgba(0,255,0,0.6)}
+    }
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:FFFFFF,100:ADD8E6&text=Hello,%20I'm%20Sachira&fontColor=000000&fontSize=50&animation=twinkling&stroke=000000&strokeWidth=1" class="fade-in" />
-  <div id="datetime" class="datetime"></div>
-</div>
+    .sensor-rotate{ width:40px; height:auto; display:inline-block; vertical-align:middle;
+      animation:spin 4s linear infinite;
+    }
+    @keyframes spin{ from{transform:rotate(0deg)} to{transform:rotate(360deg)} }
 
-<h3 align="center" style="color:#000000;">💡 Undergraduate Student | IoT & Embedded Systems Enthusiast | ESP32/Arduino Developer | Learning Full-Stack Web Development</h3>
+    .data-pulse{ width:16px;height:16px;border-radius:50%;display:inline-block;margin:0 10px;
+      animation:pulse 1.5s infinite; background:#00aaff; vertical-align:middle;
+    }
+    @keyframes pulse{ 0%{transform:scale(1);box-shadow:0 0 5px rgba(0,170,255,0.5)}
+      50%{transform:scale(1.2);box-shadow:0 0 18px rgba(0,255,255,0.25)}
+      100%{transform:scale(1);box-shadow:0 0 5px rgba(0,170,255,0.5)} }
 
-<!-- IoT Animation Icons -->
-<div align="center" style="margin: 20px;">
-  <span class="led-blink" style="display:inline-block;width:15px;height:15px;border-radius:50%;"></span>
-  <img src="https://skillicons.dev/icons?i=arduino" class="sensor-rotate" width="40"/>
-  <span class="data-pulse" style="display:inline-block;width:15px;height:15px;border-radius:50%;background:#00f;margin-left:10px;"></span>
-  <span class="signal-wave" style="display:inline-block;width:15px;height:15px;border-radius:50%;background:#0f0;margin-left:10px;"></span>
-</div>
+    .signal-wave{ width:16px;height:16px;border-radius:50%;display:inline-block;margin-left:10px;
+      background:#0f0; animation:wave 2s infinite; vertical-align:middle;
+    }
+    @keyframes wave{
+      0%{box-shadow:0 0 0 0 rgba(0,255,0,0.5)}
+      70%{box-shadow:0 0 0 15px rgba(0,255,0,0)}
+      100%{box-shadow:0 0 0 0 rgba(0,255,0,0.5)}
+    }
 
-<!-- Typing Animation -->
-<div align="center" class="slide-in">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=800&height=50&lines=Crop+Recommendation+System+Developer;Real-time+IoT+Sensor+Integration;Building+Sustainable+Farming+Solutions;Passionate+About+Smart+Agriculture+🌱" />
-</div>
+    .datetime{ font-size:14px; color:#000; margin-top:10px; text-align:center; }
 
-<!-- Profile Badges -->
-<div align="center" style="margin-top:15px;">
-  <img src="https://komarev.com/ghpvc/?username=Sachira263&label=Profile%20Views&style=for-the-badge&color=FFFFFF&labelColor=000000" />
-  <img src="https://img.shields.io/github/followers/Sachira263?label=Followers&style=for-the-badge&color=ADD8E6&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-FFFFFF?style=for-the-badge&labelColor=000000" />
-</div>
+    /* Responsive */
+    @media (max-width:640px){
+      .container{padding:12px}
+      .sensor-rotate{width:32px}
+    }
+  </style>
+</head>
+<body>
+  <div class="container" role="main">
+    <img class="header-img fade-in" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:FFFFFF,100:ADD8E6&text=Hello,%20I'm%20Sachira&fontColor=000000&fontSize=50&animation=twinkling&stroke=000000&strokeWidth=1" alt="Header" />
 
-<script>
-function updateDateTime() {
-  const now = new Date();
-  now.setHours(20, 8, 0, 0);
-  const options = { 
-    weekday: 'long', 
-    year: 'numeric', 
-    month: 'long', 
-    day: 'numeric', 
-    hour: '2-digit', 
-    minute: '2-digit', 
-    timeZone: 'Asia/Colombo', 
-    timeZoneName: 'short' 
-  };
-  document.getElementById('datetime').innerText = `Last Updated: ${now.toLocaleString('en-US', options)}`;
-}
-updateDateTime();
-setInterval(updateDateTime, 60000);
-</script>
+    <h2 style="text-align:center;margin:6px 0 4px;">💡 Undergraduate Student | IoT & Embedded Systems Enthusiast</h2>
+    <div style="text-align:center;margin-bottom:12px">
+      <span class="led-blink" title="LED"></span>
+      <img class="sensor-rotate" src="https://skillicons.dev/icons?i=arduino" alt="Sensor" />
+      <span class="data-pulse" title="Data pulse"></span>
+      <span class="signal-wave" title="Signal wave"></span>
+    </div>
 
-<h3 align="center">🌟 What I'm Up To</h3>
+    <div style="text-align:center" class="slide-in">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=800&height=50&lines=Crop+Recommendation+System+Developer;Real-time+IoT+Sensor+Integration;Building+Sustainable+Farming+Solutions" alt="typing" />
+    </div>
 
-<div align="center">
-<table>
-<tr>
-<td width="33%" align="center">🚀 <b>Currently Building</b><br>Crop Recommendation System<br>IoT Sensor Integration<br>Microservices with Spring Boot</td>
-<td width="33%" align="center">📚 <b>Learning Journey</b><br>Advanced ML Models<br>Weather API Integration<br>Spring Boot & Docker</td>
-<td width="33%" align="center">🎯 <b>Future Goals</b><br>Pest Prediction System<br>Mobile App for Farmers<br>Open Source Agri-Tech</td>
-</tr>
-</table>
-</div>
+    <div class="datetime" id="datetime">Last updated: —</div>
 
-<h3 align="center">📊 GitHub Journey</h3>
+    <hr style="margin:18px 0"/>
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sachira263&theme=light&show_icons=true&count_private=true"/>
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=Sachira263&count_private=true&theme=light"/>
-</td>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sachira263&theme=light&langs_count=10"/>
-</td>
-</tr>
-</table>
-</div>
+    <!-- rest of README content can go here (GitHub README will still show this text) -->
+    <p><strong>Currently building:</strong> Crop Recommendation System, IoT Sensor Integration, Microservices.</p>
+    <p style="font-size:13px;color:#333">To display this animated page on GitHub, enable <strong>GitHub Pages</strong> for the repo and point to this file.</p>
+  </div>
 
-<h3 align="center">🛠️ Technology Stack</h3>
-
-<div align="center" class="fade-in">
-  <b>Programming Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,java" /><br/><br/>
-  <b>Frontend & Backend</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,spring" /><br/><br/>
-  <b>Databases & IoT</b><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb" /> 
-  <img src="https://skillicons.dev/icons?i=arduino" class="sensor-rotate" style="margin-left:10px;" /><br/><br/>
-  <b>DevOps & Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode" />
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=The%20future%20of%20agriculture%20lies%20in%20data-driven%20decisions&author=Sachira%20Nadeesharika" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FFFFFF,100:ADD8E6" />
-</div>
-
-<h4 align="center">💖 Thanks for visiting! Let's grow smarter agriculture together! 🌾</h4>
+  <script>
+    function updateDateTime(){
+      const now = new Date();
+      // Set the date/time you want — your earlier code hard-set it for demo:
+      // now.setHours(20,8,0,0);
+      const options = { weekday:'long', year:'numeric', month:'long', day:'numeric',
+                        hour:'2-digit', minute:'2-digit', timeZone:'Asia/Colombo', timeZoneName:'short' };
+      document.getElementById('datetime').innerText = 'Last Updated: ' + now.toLocaleString('en-US', options);
+    }
+    updateDateTime();
+    setInterval(updateDateTime, 60_000);
+  </script>
+</body>
+</html>
