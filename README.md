@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:FFFFFF,100:1E90FF&text=Hello,%20I'm%20Sachira&fontColor=000000&fontSize=50&fontAlign=50&animation=twinkling&stroke=1E90FF&strokeWidth=1" />
 </div>
 
-<h3 align="center" style="color:#1E90FF;">✨ Passionate Developer | Creative Problem Solver ✨</h3>
+<h3 align="center" style="color:#1E90FF;">✨ Undergraduate Student | IoT & Embedded Systems Enthusiast | ESP32/Arduino Developer | Learning Full-Stack Web Development ✨</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=1E90FF&background=00000000&center=true&vCenter=true&width=800&height=50&lines=Software+Engineer+%7C+Tech+Enthusiast;Building+Beautiful+%26+Functional+Solutions;Passionate+About+Clean+Code+%26+Innovation;Always+Learning+%26+Growing+🌸" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=1E90FF&background=00000000&center=true&vCenter=true&width=800&height=50&lines=Software+Engineer+%7C+IoT+Specialist+🔌;Building+Smart+Agriculture+Solutions+🌾;ESP32+%7C+Arduino+%7C+Sensor+Integration+⚡;MERN+Stack+%7C+Machine+Learning+%7C+Embedded+Systems+🤖" alt="Typing Animation" />
 </div>
 
 <div align="center" style="margin-top:15px;">
@@ -131,6 +131,13 @@ const sachira = {
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
 </div>
 
 <h3 align="center">🤝 Let's Connect & Collaborate</h3>
