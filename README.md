@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:E91E63,100:9C27B0&text=Hello,%20I'm%20Dhananjalie&fontColor=FFFFFF&fontSize=50&fontAlign=50&animation=twinkling&stroke=FFFFFF&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:E91E63,100:9C27B0&text=Hello,%20I'm%20Sachira&fontColor=FFFFFF&fontSize=50&fontAlign=50&animation=twinkling&stroke=FFFFFF&strokeWidth=1" />
 </div>
 
 <h3 align="center" style="color:#E91E63;">✨ Passionate Developer | Creative Problem Solver ✨</h3>
@@ -9,18 +9,18 @@
 </div>
 
 <div align="center" style="margin-top:15px;">
-  <img src="https://komarev.com/ghpvc/?username=DhananjaliePro&label=Profile%20Views&style=for-the-badge&color=E91E63&labelColor=000000" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/DhananjaliePro?label=Followers&style=for-the-badge&color=9C27B0&labelColor=000000" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=SachiraPro&label=Profile%20Views&style=for-the-badge&color=E91E63&labelColor=000000" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/SachiraPro?label=Followers&style=for-the-badge&color=9C27B0&labelColor=000000" alt="Followers" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-E91E63?style=for-the-badge&labelColor=000000" alt="Status" />
 </div>
 <br/>
 
 ```javascript
-const dhananjalie = {
-  name: "Dhananjalie Wijerathne",
+const sachira = {
+  name: "Sachira Nadeesharika",
   location: "Kandy, Sri Lanka 🇱🇰",
-  email: "damithadananjalie@gmail.com",
-  pronouns: "She/Her",
+  email: "sachira.nadeesharika@gmail.com",
+  pronouns: "He/Him",
   
   languages: ["JavaScript", "TypeScript", "Python", "Java", "C#", "Dart"],
   
@@ -28,8 +28,8 @@ const dhananjalie = {
     "Frontend Development", 
     "UI/UX Design", 
     "Mobile Applications", 
-    "Women in Tech",
-    "Sustainable Technology"
+    "IoT Development",
+    "Smart Agriculture Technology"
   ],
   
   techStack: {
@@ -78,18 +78,18 @@ const dhananjalie = {
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DhananjalieW&theme=tokyonight&show_icons=true&count_private=true"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SachiraW&theme=tokyonight&show_icons=true&count_private=true"/>
   
 
 <br/>
 <br/>
 
-  [![jeewaka supun's current streak](https://streak-stats.demolab.com/?user=DhananjalieW&count_private=true&theme=tokyonight)](#)
+  [![sachira's current streak](https://streak-stats.demolab.com/?user=SachiraW&count_private=true&theme=tokyonight)](#)
   
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DhananjalieW&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SachiraW&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -134,16 +134,16 @@ const dhananjalie = {
 <h3 align="center">🤝 Let's Connect & Collaborate</h3>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/dhananjalie-wijerathne" target="_blank">
+<a href="https://www.linkedin.com/in/sachira-nadeesharika" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:dhananjalie.dev@gmail.com" target="_blank">
+<a href="mailto:sachira.nadeesharika@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://twitter.com/DhananjalieW" target="_blank">
+<a href="https://twitter.com/SachiraW" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
-<a href="https://dev.to/dhananjalie" target="_blank">
+<a href="https://dev.to/sachira" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
 </a>
 </div>
@@ -157,7 +157,7 @@ const dhananjalie = {
 <h3 align="center">💝 Support My Work</h3>
 <div align="center">
   <p>If you find my projects helpful, consider buying me a coffee! ☕</p>
-  <a href="https://www.buymeacoffee.com/dhananjalie" target="_blank">
+  <a href="https://www.buymeacoffee.com/sachira" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
 </div>
@@ -166,4 +166,4 @@ const dhananjalie = {
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:E91E63,100:9C27B0" />
 </div>
 
-<h4 align="center">💖 Thanks for visiting! Let's build something amazing together! 🚀</h4>     change this code for my email address and change the code following report
+<h4 align="center">💖 Thanks for visiting! Let's build something amazing together! 🚀</h4>
