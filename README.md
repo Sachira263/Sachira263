@@ -103,27 +103,27 @@ const sachira = {
 
 <div align="center">
 
-**Development Environments & Design**
+**💻 Development Environments & Design**
 <br/>
 <img src="https://skillicons.dev/icons?i=vscode,webstorm,idea,figma,ps,ai" />
 
-**Programming Languages**
+**🔧 Programming Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,dart,cpp" />
 
-**Frontend Technologies**
+**🎨 Frontend Technologies**
 <br/>
 <img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,html,css,tailwind,bootstrap,sass" />
 
-**Backend & Databases**
+**⚙️ Backend & Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,dotnet,postgresql,mongodb,firebase" />
 
-**Mobile & Cloud**
+**📱 Mobile & Cloud**
 <br/>
 <img src="https://skillicons.dev/icons?i=flutter,aws,gcp,docker,kubernetes,vercel,netlify" />
 
-**Development Tools**
+**🔨 Development Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,postman,npm,yarn,webpack,vite" />
 
