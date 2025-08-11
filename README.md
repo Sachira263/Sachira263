@@ -5,7 +5,7 @@
 <h3 align="center" style="color:#1E90FF;">✨ Passionate Developer | Creative Problem Solver ✨</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=1E90FF&background=00000000&center=true&vCenter=true&width=800&height=50&lines=Software+Engineer+%7C+Tech+Enthusiast;Building+Beautiful+%26+Functional+Solutions;Passionate+About+Clean+Code+%26+Innovation;Always+Learning+%26+Growing" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=1E90FF&background=00000000&center=true&vCenter=true&width=800&height=50&lines=Software+Engineer+%7C+Tech+Enthusiast;Building+Beautiful+%26+Functional+Solutions;Passionate+About+Clean+Code+%26+Innovation;Always+Learning+%26+Growing+🌸" alt="Typing Animation" />
 </div>
 
 <div align="center" style="margin-top:15px;">
@@ -25,29 +25,31 @@ const sachira = {
   languages: ["JavaScript", "TypeScript", "Python", "Java", "C#", "Dart"],
   
   passionateAbout: [
-    "Frontend Development", 
-    "UI/UX Design", 
-    "Mobile Applications", 
-    "IoT Development",
-    "Smart Agriculture Technology"
+    "Frontend Development 💻", 
+    "UI/UX Design 🎨", 
+    "Mobile Applications 📱", 
+    "IoT Development 🔌",
+    "Smart Agriculture Technology 🌾"
   ],
   
   techStack: {
-    frontend: ["React.js", "Vue.js", "Angular", "Svelte", "Tailwind CSS"],
-    mobile: ["Flutter", "React Native", "Ionic"],
-    backend: ["Node.js", "Express.js", "Django", "FastAPI", ".NET Core"],
-    databases: ["PostgreSQL", "MongoDB", "Firebase", "Supabase"],
-    cloud: ["AWS", "Google Cloud", "Vercel", "Netlify"],
-    tools: ["Git", "Docker", "Figma", "Postman", "VS Code"]
+    frontend: ["React.js ⚛️", "Vue.js", "Angular", "Svelte", "Tailwind CSS"],
+    mobile: ["Flutter 💙", "React Native", "Ionic"],
+    backend: ["Node.js 🟢", "Express.js", "Django", "FastAPI", ".NET Core"],
+    databases: ["PostgreSQL 🐘", "MongoDB 🍃", "Firebase 🔥", "Supabase"],
+    iot: ["ESP32 🔧", "Arduino IDE", "DHT11 Sensors", "IoT Integration"],
+    ml: ["Python 🐍", "Flask", "Scikit-learn", "Random Forest", "Pandas"],
+    cloud: ["AWS ☁️", "Google Cloud", "Vercel", "Netlify"],
+    tools: ["Git", "Docker 🐳", "Figma", "Postman 📮", "VS Code"]
   },
   
-  currentlyLearning: ["GraphQL", "Kubernetes", "Machine Learning", "Blockchain"],
+  currentlyLearning: ["GraphQL 📊", "Kubernetes ☸️", "Machine Learning 🤖", "Blockchain ⛓️"],
   
   hobbies: [
-    "Digital Art & Design",
-    "Photography",
-    "Reading Tech Blogs",
-    "Mentoring Junior Developers",
+    "Digital Art & Design 🎨",
+    "Photography 📸",
+    "Reading Tech Blogs 📚",
+    "Mentoring Junior Developers 👨‍🏫",
     "Exploring Nature 🌿"
   ],
   
@@ -63,9 +65,9 @@ const sachira = {
 
 | 🚀 **Currently Building** | 📚 **Learning Journey** | 🎯 **Future Goals** |
 |:-------:|:-------:|:-------:|
-| E-commerce Platform | Advanced React Patterns | Tech Leadership |
-| Personal Portfolio | Cloud Architecture | Open Source Contributions |
-| Mobile App (Flutter) | AI/ML Fundamentals | Speaking at Conferences |
+| Crop Recommendation System 🌾 | Advanced React Patterns ⚛️ | Tech Leadership 👨‍💼 |
+| IoT Agriculture Dashboard 📊 | Machine Learning & AI 🤖 | Open Source Contributions 🌍 |
+| ESP32 Sensor Integration 🔧 | Cloud Architecture ☁️ | Speaking at Conferences 🎤 |
 
 </div>
 
