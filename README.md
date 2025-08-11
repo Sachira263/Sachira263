@@ -14,31 +14,65 @@
   }
   .slide-in {
     animation: slide 3s infinite alternate;
-  }<style>
-  body {
-    background: linear-gradient(to bottom, #FFFFFF, #ADD8E6);
-    margin: 0;
-    padding: 0;
-    min-height: 100vh;
-  }
-  .fade-in {
-    animation: fade 2s infinite;
-  }
-  @keyframes fade {
-    0% { opacity: 0.5; }
-    100% { opacity: 1; }
-  }
-  .slide-in {
-    animation: slide 3s infinite alternate;
   }
   @keyframes slide {
     0% { transform: translateX(-10px); }
     100% { transform: translateX(10px); }
   }
+  .chart-container img {
+    background: linear-gradient(to bottom, #FFFFFF, #ADD8E6);
+    border-radius: 10px;
+    padding: 10px;
+  }
+  .header-image {
+    background: linear-gradient(to right, #00008B, #FFFFFF);
+    border-radius: 10px;
+    padding: 10px;
+  }
+  .led-blink {
+    animation: blink 1s infinite;
+  }
+  @keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  .sensor-rotate {
+    animation: rotate 4s infinite linear;
+  }
+  @keyframes rotate {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+  .data-pulse {
+    animation: pulse 2s infinite;
+  }
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.2); }
+    100% { transform: scale(1); }
+  }
+  .signal-wave {
+    animation: wave 3s infinite;
+    position: relative;
+    top: -5px;
+    left: 5px;
+  }
+  @keyframes wave {
+    0% { box-shadow: 0 0 0 0 rgba(0, 255, 0, 0.4); }
+    50% { box-shadow: 0 0 0 10px rgba(0, 255, 0, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(0, 255, 0, 0.4); }
+  }
+  .datetime {
+    font-size: 16px;
+    color: #000000;
+    margin-top: 10px;
+  }
 </style>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:FFFFFF,100:ADD8E6&text=Hello,%20I'm%20Sachira&fontColor=000000&fontSize=50&fontAlign=50&animation=twinkling&stroke=000000&strokeWidth=1" class="fade-in" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:FFFFFF,100:ADD8E6&text=Hello,%20I'm%20Sachira&fontColor=000000&fontSize=50&fontAlign=50&animation=twinkling&stroke=000000&strokeWidth=1" class="fade-in header-image" />
+  <div id="datetime" class="datetime"></div>
 </div>
 
 <h3 align="center" style="color:#000000;">✨ Undergraduate Student | IoT & Embedded Systems Enthusiast | ESP32/Arduino Developer | Learning Full-Stack Web Development ✨</h3>
@@ -87,6 +121,26 @@ const sachira = {
   ],
   motto: "Empowering farmers with data-driven solutions 🌱"
 };
+
+// Display current date and time
+function updateDateTime() {
+  const now = new Date();
+  now.setHours(20, 8, 0, 0); // Set to 08:08 PM +0530, August 11, 2025
+  const options = { 
+    weekday: 'long', 
+    year: 'numeric', 
+    month: 'long', 
+    day: 'numeric', 
+    hour: '2-digit', 
+    minute: '2-digit', 
+    timeZone: 'Asia/Colombo', 
+    timeZoneName: 'short' 
+  };
+  const datetimeStr = now.toLocaleString('en-US', options).replace('GMT', 'UTC');
+  document.getElementById('datetime').innerText = `Last Updated: ${datetimeStr}`;
+}
+updateDateTime();
+setInterval(updateDateTime, 60000); // Update every minute
 </script>
 
 <h3 align="center">🌟 What I'm Up To</h3>
@@ -103,7 +157,7 @@ const sachira = {
 
 <h3 align="center">📊 GitHub Journey</h3>
 
-<div align="center">
+<div align="center" class="chart-container">
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -128,10 +182,15 @@ const sachira = {
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,spring" />
   <br/><br/>
   <b>Databases & IoT</b><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,arduino" />
+  <div style="display: inline-block; position: relative;">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <span class="led-blink" style="display: inline-block; width: 10px; height: 10px; background: red; border-radius: 50%; position: absolute; top: 5px; left: 5px;"></span>
+    <span class="signal-wave" style="display: inline-block; width: 15px; height: 15px; background: green; border-radius: 50%; margin-left: 5px;"></span>
+  </div>
+  <img src="https://skillicons.dev/icons?i=arduino" class="sensor-rotate" style="display: inline-block; margin-left: 10px;" />
   <br/><br/>
   <b>DevOps & Architecture</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=docker" class="data-pulse" />
   <br/><br/>
   <b>Tools</b><br/>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
@@ -167,15 +226,81 @@ const sachira = {
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FFFFFF,100:ADD8E6" />
 </div>
 
-<h4 align="center">💖 Thanks for visiting! Let's grow smarter agriculture together! 🌾</h4>
+<h4 align="center">💖 Thanks for visiting! Let's grow smarter agriculture together! 🌾</h4><style>
+  body {
+    background: linear-gradient(to bottom, #FFFFFF, #ADD8E6);
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+  }
+  .fade-in {
+    animation: fade 2s infinite;
+  }
+  @keyframes fade {
+    0% { opacity: 0.5; }
+    100% { opacity: 1; }
+  }
+  .slide-in {
+    animation: slide 3s infinite alternate;
+  }
   @keyframes slide {
     0% { transform: translateX(-10px); }
     100% { transform: translateX(10px); }
   }
+  .chart-container img {
+    background: linear-gradient(to bottom, #FFFFFF, #ADD8E6);
+    border-radius: 10px;
+    padding: 10px;
+  }
+  .header-image {
+    background: linear-gradient(to right, #00008B, #FFFFFF);
+    border-radius: 10px;
+    padding: 10px;
+  }
+  .led-blink {
+    animation: blink 1s infinite;
+  }
+  @keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  .sensor-rotate {
+    animation: rotate 4s infinite linear;
+  }
+  @keyframes rotate {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+  .data-pulse {
+    animation: pulse 2s infinite;
+  }
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.2); }
+    100% { transform: scale(1); }
+  }
+  .signal-wave {
+    animation: wave 3s infinite;
+    position: relative;
+    top: -5px;
+    left: 5px;
+  }
+  @keyframes wave {
+    0% { box-shadow: 0 0 0 0 rgba(0, 255, 0, 0.4); }
+    50% { box-shadow: 0 0 0 10px rgba(0, 255, 0, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(0, 255, 0, 0.4); }
+  }
+  .datetime {
+    font-size: 16px;
+    color: #000000;
+    margin-top: 10px;
+  }
 </style>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:FFFFFF,100:ADD8E6&text=Hello,%20I'm%20Sachira&fontColor=000000&fontSize=50&fontAlign=50&animation=twinkling&stroke=000000&strokeWidth=1" class="fade-in" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:FFFFFF,100:ADD8E6&text=Hello,%20I'm%20Sachira&fontColor=000000&fontSize=50&fontAlign=50&animation=twinkling&stroke=000000&strokeWidth=1" class="fade-in header-image" />
+  <div id="datetime" class="datetime"></div>
 </div>
 
 <h3 align="center" style="color:#000000;">✨ Undergraduate Student | IoT & Embedded Systems Enthusiast | ESP32/Arduino Developer | Learning Full-Stack Web Development ✨</h3>
@@ -224,6 +349,26 @@ const sachira = {
   ],
   motto: "Empowering farmers with data-driven solutions 🌱"
 };
+
+// Display current date and time
+function updateDateTime() {
+  const now = new Date();
+  now.setHours(20, 8, 0, 0); // Set to 08:08 PM +0530, August 11, 2025
+  const options = { 
+    weekday: 'long', 
+    year: 'numeric', 
+    month: 'long', 
+    day: 'numeric', 
+    hour: '2-digit', 
+    minute: '2-digit', 
+    timeZone: 'Asia/Colombo', 
+    timeZoneName: 'short' 
+  };
+  const datetimeStr = now.toLocaleString('en-US', options).replace('GMT', 'UTC');
+  document.getElementById('datetime').innerText = `Last Updated: ${datetimeStr}`;
+}
+updateDateTime();
+setInterval(updateDateTime, 60000); // Update every minute
 </script>
 
 <h3 align="center">🌟 What I'm Up To</h3>
@@ -240,7 +385,7 @@ const sachira = {
 
 <h3 align="center">📊 GitHub Journey</h3>
 
-<div align="center">
+<div align="center" class="chart-container">
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -265,10 +410,15 @@ const sachira = {
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,spring" />
   <br/><br/>
   <b>Databases & IoT</b><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,arduino" />
+  <div style="display: inline-block; position: relative;">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <span class="led-blink" style="display: inline-block; width: 10px; height: 10px; background: red; border-radius: 50%; position: absolute; top: 5px; left: 5px;"></span>
+    <span class="signal-wave" style="display: inline-block; width: 15px; height: 15px; background: green; border-radius: 50%; margin-left: 5px;"></span>
+  </div>
+  <img src="https://skillicons.dev/icons?i=arduino" class="sensor-rotate" style="display: inline-block; margin-left: 10px;" />
   <br/><br/>
   <b>DevOps & Architecture</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=docker" class="data-pulse" />
   <br/><br/>
   <b>Tools</b><br/>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
