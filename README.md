@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:E91E63,100:9C27B0&text=Hello,%20I'm%20Sachira&fontColor=FFFFFF&fontSize=50&fontAlign=50&animation=twinkling&stroke=FFFFFF&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:FFFFFF,100:1E90FF&text=Hello,%20I'm%20Sachira&fontColor=000000&fontSize=50&fontAlign=50&animation=twinkling&stroke=1E90FF&strokeWidth=1" />
 </div>
 
-<h3 align="center" style="color:#E91E63;">✨ Passionate Developer | Creative Problem Solver ✨</h3>
+<h3 align="center" style="color:#1E90FF;">✨ Passionate Developer | Creative Problem Solver ✨</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=E91E63&background=00000000&center=true&vCenter=true&width=800&height=50&lines=Software+Engineer+%7C+Tech+Enthusiast;Building+Beautiful+%26+Functional+Solutions;Passionate+About+Clean+Code+%26+Innovation;Always+Learning+%26+Growing+🌸" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=1E90FF&background=00000000&center=true&vCenter=true&width=800&height=50&lines=Software+Engineer+%7C+Tech+Enthusiast;Building+Beautiful+%26+Functional+Solutions;Passionate+About+Clean+Code+%26+Innovation;Always+Learning+%26+Growing" alt="Typing Animation" />
 </div>
 
 <div align="center" style="margin-top:15px;">
-  <img src="https://komarev.com/ghpvc/?username=SachiraPro&label=Profile%20Views&style=for-the-badge&color=E91E63&labelColor=000000" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/SachiraPro?label=Followers&style=for-the-badge&color=9C27B0&labelColor=000000" alt="Followers" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-E91E63?style=for-the-badge&labelColor=000000" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=SachiraPro&label=Profile%20Views&style=for-the-badge&color=1E90FF&labelColor=000000" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/SachiraPro?label=Followers&style=for-the-badge&color=4682B4&labelColor=000000" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-1E90FF?style=for-the-badge&labelColor=000000" alt="Status" />
 </div>
 <br/>
 
@@ -163,7 +163,7 @@ const sachira = {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:E91E63,100:9C27B0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FFFFFF,100:1E90FF" />
 </div>
 
 <h4 align="center">💖 Thanks for visiting! Let's build something amazing together! 🚀</h4>
