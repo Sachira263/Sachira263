@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     min-height: 100vh;
+    font-family: Arial, sans-serif;
   }
 
   /* Smooth fade-in for header */
@@ -11,17 +12,17 @@
     animation: fade 2s ease-in-out infinite alternate;
   }
   @keyframes fade {
-    0% { opacity: 0.6; }
+    0% { opacity: 0.7; }
     100% { opacity: 1; }
   }
 
   /* Slide effect for tagline */
   .slide-in {
-    animation: slide 3s infinite alternate;
+    animation: slide 3s ease-in-out infinite alternate;
   }
   @keyframes slide {
-    0% { transform: translateX(-10px); }
-    100% { transform: translateX(10px); }
+    0% { transform: translateX(-8px); }
+    100% { transform: translateX(8px); }
   }
 
   /* IoT LED blink */
@@ -29,14 +30,13 @@
     animation: blink 1s infinite;
   }
   @keyframes blink {
-    0% { background: #00ff00; box-shadow: 0 0 10px #00ff00; }
+    0%, 100% { background: #00ff00; box-shadow: 0 0 10px #00ff00; }
     50% { background: #006400; box-shadow: none; }
-    100% { background: #00ff00; box-shadow: 0 0 10px #00ff00; }
   }
 
-  /* Sensor rotation animation */
+  /* Sensor rotation */
   .sensor-rotate {
-    animation: rotate 4s infinite linear;
+    animation: rotate 4s linear infinite;
   }
   @keyframes rotate {
     from { transform: rotate(0deg); }
@@ -48,9 +48,8 @@
     animation: pulse 1.5s infinite;
   }
   @keyframes pulse {
-    0% { transform: scale(1); box-shadow: 0 0 5px #00f; }
+    0%, 100% { transform: scale(1); box-shadow: 0 0 5px #00f; }
     50% { transform: scale(1.2); box-shadow: 0 0 20px #0ff; }
-    100% { transform: scale(1); box-shadow: 0 0 5px #00f; }
   }
 
   /* Wireless signal wave */
@@ -63,10 +62,20 @@
     100% { box-shadow: 0 0 0 0 rgba(0, 255, 0, 0.5); }
   }
 
+  /* Date/Time */
   .datetime {
     font-size: 16px;
     color: #000000;
     margin-top: 10px;
+  }
+
+  /* Responsive tables */
+  table {
+    max-width: 90%;
+    border-collapse: collapse;
+  }
+  td {
+    padding: 10px;
   }
 </style>
 
@@ -100,7 +109,6 @@
 <script>
 function updateDateTime() {
   const now = new Date();
-  now.setHours(20, 8, 0, 0);
   const options = { 
     weekday: 'long', 
     year: 'numeric', 
@@ -116,56 +124,3 @@ function updateDateTime() {
 updateDateTime();
 setInterval(updateDateTime, 60000);
 </script>
-
-<h3 align="center">🌟 What I'm Up To</h3>
-
-<div align="center">
-<table>
-<tr>
-<td width="33%" align="center">🚀 <b>Currently Building</b><br>Crop Recommendation System<br>IoT Sensor Integration<br>Microservices with Spring Boot</td>
-<td width="33%" align="center">📚 <b>Learning Journey</b><br>Advanced ML Models<br>Weather API Integration<br>Spring Boot & Docker</td>
-<td width="33%" align="center">🎯 <b>Future Goals</b><br>Pest Prediction System<br>Mobile App for Farmers<br>Open Source Agri-Tech</td>
-</tr>
-</table>
-</div>
-
-<h3 align="center">📊 GitHub Journey</h3>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sachira263&theme=light&show_icons=true&count_private=true"/>
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=Sachira263&count_private=true&theme=light"/>
-</td>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sachira263&theme=light&langs_count=10"/>
-</td>
-</tr>
-</table>
-</div>
-
-<h3 align="center">🛠️ Technology Stack</h3>
-
-<div align="center" class="fade-in">
-  <b>Programming Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,java" /><br/><br/>
-  <b>Frontend & Backend</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,spring" /><br/><br/>
-  <b>Databases & IoT</b><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb" /> 
-  <img src="https://skillicons.dev/icons?i=arduino" class="sensor-rotate" style="margin-left:10px;" /><br/><br/>
-  <b>DevOps & Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode" />
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=The%20future%20of%20agriculture%20lies%20in%20data-driven%20decisions&author=Sachira%20Nadeesharika" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FFFFFF,100:ADD8E6" />
-</div>
-
-<h4 align="center">💖 Thanks for visiting! Let's grow smarter agriculture together! 🌾</h4>
