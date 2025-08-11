@@ -1,21 +1,28 @@
+<style>
+  body {
+    background: linear-gradient(to bottom, #FFFFFF, #ADD8E6);
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+  }
+  .fade-in {
+    animation: fade 2s infinite;
+  }
+  @keyframes fade {
+    0% { opacity: 0.5; }
+    100% { opacity: 1; }
+  }
+  .slide-in {
+    animation: slide 3s infinite alternate;
+  }
+  @keyframes slide {
+    0% { transform: translateX(-10px); }
+    100% { transform: translateX(10px); }
+  }
+</style>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:FFFFFF,100:ADD8E6&text=Hello,%20I'm%20Sachira&fontColor=000000&fontSize=50&fontAlign=50&animation=twinkling&stroke=000000&strokeWidth=1" class="fade-in" />
-  <style>
-    .fade-in {
-      animation: fade 2s infinite;
-    }
-    @keyframes fade {
-      0% { opacity: 0.5; }
-      100% { opacity: 1; }
-    }
-    .slide-in {
-      animation: slide 3s infinite alternate;
-    }
-    @keyframes slide {
-      0% { transform: translateX(-10px); }
-      100% { transform: translateX(10px); }
-    }
-  </style>
 </div>
 
 <h3 align="center" style="color:#000000;">✨ Undergraduate Student | IoT & Embedded Systems Enthusiast | ESP32/Arduino Developer | Learning Full-Stack Web Development ✨</h3>
@@ -37,9 +44,7 @@ const sachira = {
   location: "Kandy, Sri Lanka 🇱🇰",
   email: "nadeesharika@example.com",
   pronouns: "She/Her",
-  
   languages: ["JavaScript", "Python", "C++", "Java"],
-  
   passionateAbout: [
     "Smart Agriculture",
     "IoT Integration",
@@ -48,7 +53,6 @@ const sachira = {
     "Web Development",
     "Sustainable Farming"
   ],
-  
   techStack: {
     frontend: ["React.js"],
     backend: ["Node.js", "Express.js", "Flask", "Spring Boot"],
@@ -58,16 +62,13 @@ const sachira = {
     architecture: ["Microservices"],
     tools: ["Git", "GitHub", "Postman", "VS Code"]
   },
-  
   currentlyLearning: ["Advanced ML Models", "Weather API Integration", "Mobile App Development", "Spring Boot Microservices"],
-  
   hobbies: [
     "Exploring IoT Solutions",
     "Reading Agri-Tech Research",
     "Mentoring Peers",
     "Nature Exploration 🌾"
   ],
-  
   motto: "Empowering farmers with data-driven solutions 🌱"
 };
 </script>
