@@ -1,63 +1,59 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:E91E63,100:9C27B0&text=Hello,%20I'm%20Dhananjalie&fontColor=FFFFFF&fontSize=50&fontAlign=50&animation=twinkling&stroke=FFFFFF&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:E91E63,100:9C27B0&text=Hello,%20I'm%20Sachira%20Santhush&fontColor=FFFFFF&fontSize=50&fontAlign=50&animation=twinkling&stroke=FFFFFF&strokeWidth=1" />
 </div>
 
-<h3 align="center" style="color:#E91E63;">✨ Passionate Developer | Creative Problem Solver ✨</h3>
+<h3 align="center" style="color:#E91E63;">Undergraduate Student | IoT & Embedded Systems Enthusiast | ESP32/Arduino Developer | Learning Full-Stack Web Development (MERN)</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=E91E63&background=00000000&center=true&vCenter=true&width=800&height=50&lines=Software+Engineer+%7C+Tech+Enthusiast;Building+Beautiful+%26+Functional+Solutions;Passionate+About+Clean+Code+%26+Innovation;Always+Learning+%26+Growing+🌸" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=E91E63&background=00000000&center=true&vCenter=true&width=800&height=50&lines=Software+Engineer+%7C+Tech+Enthusiast;Building+Beautiful+%26+Functional+Solutions;Passionate+About+Clean+Code+%26+Innovation;Always+Learning+%26+Growing" alt="Typing Animation" />
 </div>
 
 <div align="center" style="margin-top:15px;">
-  <img src="https://komarev.com/ghpvc/?username=DhananjaliePro&label=Profile%20Views&style=for-the-badge&color=E91E63&labelColor=000000" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/DhananjaliePro?label=Followers&style=for-the-badge&color=9C27B0&labelColor=000000" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=SACHIRAPro&label=Profile%20Views&style=for-the-badge&color=E91E63&labelColor=000000" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/SACHIRAPro?label=Followers&style=for-the-badge&color=9C27B0&labelColor=000000" alt="Followers" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-E91E63?style=for-the-badge&labelColor=000000" alt="Status" />
 </div>
 <br/>
 
 ```javascript
-const dhananjalie = {
-  name: "Dhananjalie Wijerathne",
+const sachira = {
+  name: "K.A.S.S. Nadeesharika (Sachira Santhush)",
   location: "Kandy, Sri Lanka 🇱🇰",
-  email: "damithadananjalie@gmail.com",
-  pronouns: "She/Her",
+  email: "sachira.santhush@example.com",
+  pronouns: "He/Him",
   
-  languages: ["JavaScript", "TypeScript", "Python", "Java", "C#", "Dart"],
+  languages: ["JavaScript", "Python", "C++", "Arduino/C", "HTML", "CSS"],
   
   passionateAbout: [
-    "Frontend Development", 
-    "UI/UX Design", 
-    "Mobile Applications", 
-    "Women in Tech",
+    "IoT & Embedded Systems", 
+    "Smart Agriculture Solutions", 
+    "Machine Learning Integration", 
+    "Full-Stack Development",
     "Sustainable Technology"
   ],
   
   techStack: {
-    frontend: ["React.js", "Vue.js", "Angular", "Svelte", "Tailwind CSS"],
-    mobile: ["Flutter", "React Native", "Ionic"],
-    backend: ["Node.js", "Express.js", "Django", "FastAPI", ".NET Core"],
-    databases: ["PostgreSQL", "MongoDB", "Firebase", "Supabase"],
-    cloud: ["AWS", "Google Cloud", "Vercel", "Netlify"],
-    tools: ["Git", "Docker", "Figma", "Postman", "VS Code"]
+    frontend: ["React.js", "HTML5", "CSS3", "JavaScript"],
+    backend: ["Node.js", "Express.js", "Flask"],
+    databases: ["MongoDB"],
+    iot: ["ESP32", "Arduino", "DHT11", "Soil Sensors"],
+    ml: ["Python", "scikit-learn", "pandas"],
+    tools: ["Git", "GitHub", "Postman", "VS Code"]
   },
   
-  currentlyLearning: ["GraphQL", "Kubernetes", "Machine Learning", "Blockchain"],
+  currentlyLearning: ["Advanced ML Algorithms", "Mobile Development", "Cloud Deployment"],
   
   hobbies: [
-    "Digital Art & Design",
-    "Photography",
+    "IoT Hardware Projects",
+    "Agriculture Technology",
     "Reading Tech Blogs",
-    "Mentoring Junior Developers",
-    "Exploring Nature 🌿"
+    "Arduino Programming",
+    "Sensor Integration "
   ],
   
   motto: "Code with purpose, design with empathy, innovate with impact ✨"
 };
-```
 
----
-
-<h3 align="center">🌟 What I'm Up To</h3>
 
 <div align="center">
 
