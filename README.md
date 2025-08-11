@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Animated Banner</title>
 </head>
 <body>
   <img
