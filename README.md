@@ -1,16 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:FFFFFF,100:ADD8E6&text=Hello,%20I'm%20Sachira&fontColor=000000&fontSize=50&fontAlign=50&animation=twinkling&stroke=000000&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:FFFFFF,100:ADD8E6&text=Hello,%20I'm%20Sachira&fontColor=000000&fontSize=50&fontAlign=50&animation=twinkling&stroke=000000&strokeWidth=1" class="fade-in" />
+  <style>
+    .fade-in {
+      animation: fade 2s infinite;
+    }
+    @keyframes fade {
+      0% { opacity: 0.5; }
+      100% { opacity: 1; }
+    }
+    .slide-in {
+      animation: slide 3s infinite alternate;
+    }
+    @keyframes slide {
+      0% { transform: translateX(-10px); }
+      100% { transform: translateX(10px); }
+    }
+  </style>
 </div>
 
 <h3 align="center" style="color:#000000;">✨ Undergraduate Student | IoT & Embedded Systems Enthusiast | ESP32/Arduino Developer | Learning Full-Stack Web Development ✨</h3>
 
-<div align="center">
+<div align="center" class="slide-in">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=800&height=50&lines=Crop+Recommendation+System+Developer;Integrating+IoT+%26+Microservices;Building+Sustainable+Farming+Solutions;Passionate+About+Smart+Agriculture+🌱" alt="Typing Animation" />
 </div>
 
 <div align="center" style="margin-top:15px;">
-  <img src="https://komarev.com/ghpvc/?username=SachiraNadeesharika&label=Profile%20Views&style=for-the-badge&color=FFFFFF&labelColor=000000" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/SachiraNadeesharika?label=Followers&style=for-the-badge&color=ADD8E6&labelColor=000000" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Sachira263&label=Profile%20Views&style=for-the-badge&color=FFFFFF&labelColor=000000" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Sachira263?label=Followers&style=for-the-badge&color=ADD8E6&labelColor=000000" alt="Followers" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-FFFFFF?style=for-the-badge&labelColor=000000" alt="Status" />
 </div>
 <br/>
@@ -74,12 +90,12 @@ const sachira = {
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SachiraNadeesharika&theme=light&show_icons=true&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sachira263&theme=light&show_icons=true&count_private=true"/>
   <br/><br/>
-  <img align="center" src="https://streak-stats.demolab.com/?user=SachiraNadeesharika&count_private=true&theme=light"/>
+  <img align="center" src="https://streak-stats.demolab.com/?user=Sachira263&count_private=true&theme=light"/>
 </td>
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SachiraNadeesharika&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sachira263&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 </tr>
 </table>
@@ -87,21 +103,21 @@ const sachira = {
 
 <h3 align="center">🛠️ Technology Stack</h3>
 
-<div align="center">
-<b>Programming Languages</b><br/>
-<img src="https://skillicons.dev/icons?i=js,python,cpp,java" />
-<br/><br/>
-<b>Frontend & Backend</b><br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,spring" />
-<br/><br/>
-<b>Databases & IoT</b><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,arduino" />
-<br/><br/>
-<b>DevOps & Architecture</b><br/>
-<img src="https://skillicons.dev/icons?i=docker" />
-<br/><br/>
-<b>Tools</b><br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+<div align="center" class="fade-in">
+  <b>Programming Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,java" />
+  <br/><br/>
+  <b>Frontend & Backend</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,spring" />
+  <br/><br/>
+  <b>Databases & IoT</b><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,arduino" />
+  <br/><br/>
+  <b>DevOps & Architecture</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <br/><br/>
+  <b>Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </div>
 
 <div align="center">
