@@ -5,7 +5,7 @@
 <h3 align="center" style="color:#E91E63;">Undergraduate Student | IoT & Embedded Systems Enthusiast | ESP32/Arduino Developer | Learning Full-Stack Web Development (MERN)</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=E91E63&background=00000000&center=true&vCenter=true&width=800&height=50&lines=IoT+Developer+%7C+Smart+Agriculture+Solutions;Building+MERN+Stack+Applications;Machine+Learning+Integration+Specialist;ESP32+%26+Sensor+Technology+Expert;Always+Learning+%26+Growing+🌱" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=E91E63&background=00000000&center=true&vCenter=true&width=800&height=50&lines=IoT+Developer+%7C+Tech+Enthusiast;Building+Smart+Agriculture+Solutions;Passionate+About+IoT+%26+Innovation;Always+Learning+%26+Growing+🌸" alt="Typing Animation" />
 </div>
 
 <div align="center" style="margin-top:15px;">
@@ -20,8 +20,7 @@ const sachira = {
   name: "K.A.S.S. Nadeesharika (Sachira Santhush)",
   studentId: "KAN/IT/2022/F/0088",
   location: "Kandy, Sri Lanka 🇱🇰",
-  institution: "Advanced Technological Institute - Kandy",
-  department: "Information Technology",
+  email: "sachira.santhush@example.com",
   pronouns: "He/Him",
   
   languages: ["JavaScript", "Python", "C++", "Arduino/C", "HTML", "CSS"],
@@ -38,28 +37,19 @@ const sachira = {
     frontend: ["React.js", "HTML5", "CSS3", "JavaScript"],
     backend: ["Node.js", "Express.js", "Flask", "RESTful APIs"],
     databases: ["MongoDB", "NoSQL"],
-    iot: ["ESP32", "Arduino", "DHT11", "Soil Sensors", "HTTP Integration"],
-    ml: ["Python", "scikit-learn", "pandas", "Random Forest", "Flask ML APIs"],
-    tools: ["Git", "GitHub", "Postman", "VS Code"],
-    hardware: ["ESP32", "DHT11 Temperature/Humidity Sensor", "Soil Moisture Sensor"]
+    iot: ["ESP32", "Arduino", "DHT11", "Soil Sensors"],
+    ml: ["Python", "scikit-learn", "pandas", "Random Forest"],
+    tools: ["Git", "GitHub", "Postman", "VS Code"]
   },
-  
-  currentProject: "Crop Recommendation System (MERN + Flask + C++)",
   
   currentlyLearning: ["Advanced ML Algorithms", "Weather API Integration", "Mobile Development", "Cloud Deployment"],
   
-  achievements: [
-    "95% Model Accuracy in Crop Recommendation",
-    "Real-time IoT Data Integration",
-    "End-to-end MERN Stack Implementation",
-    "ESP32 Sensor Network Development"
-  ],
-  
-  futureGoals: [
-    "Weather Data Integration",
-    "Mobile App Development",
-    "Pest & Disease Prediction",
-    "Advanced User Management"
+  hobbies: [
+    "IoT Hardware Projects",
+    "Agriculture Technology",
+    "Reading Tech Blogs",
+    "Arduino Programming",
+    "Sensor Integration 🌱"
   ],
   
   motto: "Bridging traditional farming with modern technology 🌾"
@@ -70,14 +60,14 @@ const sachira = {
 
 ## 🚀 About Me
 
-I'm a passionate **Information Technology undergraduate** at Advanced Technological Institute, Kandy, specializing in **IoT systems** and **smart agriculture solutions**. Currently working on innovative projects that combine **embedded systems**, **machine learning**, and **full-stack web development** to solve real-world agricultural challenges.
+I'm a passionate **Information Technology undergraduate** at Advanced Technological Institute, Kandy, specializing in **IoT systems** and **smart agriculture solutions**. I enjoy working on projects that combine **embedded systems**, **machine learning**, and **web development** to solve real-world problems.
 
 - 🔭 I'm currently working on **Crop Recommendation System using MERN + Flask + C++**
 - 🌱 I'm currently learning **Advanced Machine Learning**, **Weather API Integration**, and **Mobile Development**
 - 👯 I'm looking to collaborate on **IoT Agriculture Projects**, **Smart Farming Solutions**
 - 🤔 I'm looking for help with **Cloud Deployment** and **Advanced Sensor Integration**
 - 💬 Ask me about **ESP32 Development**, **IoT Sensor Integration**, **MERN Stack**, **Agricultural ML**
-- 📫 How to reach me: **sachira.dev@example.com** (update with your email)
+- 📫 How to reach me: **sachira.santhush@example.com**
 - ⚡ Fun fact: **I can make plants "talk" to computers using IoT sensors! 🌿📡**
 
 ---
@@ -86,21 +76,11 @@ I'm a passionate **Information Technology undergraduate** at Advanced Technologi
 
 <div align="center">
 
-### 🌾 **Crop Recommendation System**
-*MERN Stack + Flask ML + ESP32 IoT Integration*
-
-| **Component** | **Technology** | **Achievement** |
+| 🚀 **Currently Building** | 📚 **Learning Journey** | 🎯 **Future Goals** |
 |:-------:|:-------:|:-------:|
-| 🌡️ **IoT Layer** | ESP32 + DHT11 + Soil Sensors | Real-time data collection |
-| 🔧 **Backend** | Node.js + Express + MongoDB | RESTful API with <2s latency |
-| 🤖 **ML Service** | Flask + Random Forest | 95% prediction accuracy |
-| 🎨 **Frontend** | React.js + Real-time Charts | Live sensor dashboard |
-
-**Key Features:**
-- Real-time environmental monitoring
-- Intelligent crop recommendations
-- Live data visualization
-- Modular and scalable architecture
+| Crop Recommendation System | Advanced ML Algorithms | Weather Data Integration |
+| IoT Sensor Networks | Mobile Development | Open Source Contributions |
+| MERN Stack Applications | Cloud Architecture | Speaking at Tech Events |
 
 </div>
 
@@ -140,38 +120,33 @@ I'm a passionate **Information Technology undergraduate** at Advanced Technologi
 
 <div align="center">
 
+**Development Environments & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+
+**Programming Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,python,cpp,html,css" />
+
+**Frontend Technologies**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,js" />
+
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb" />
+
 **IoT & Hardware**
 <br/>
 <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/DHT11-FF6B6B?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
 
-**Frontend Development**
+**Machine Learning**
 <br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-**Backend & Database**
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-**Machine Learning & Python**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-
-**Development Tools**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 </div>
 
@@ -263,7 +238,7 @@ graph LR
 <a href="https://www.linkedin.com/in/sachira-santhush" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:sachira.dev@example.com" target="_blank">
+<a href="mailto:sachira.santhush@example.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://twitter.com/SachiraSanthush" target="_blank">
@@ -287,7 +262,7 @@ graph LR
 
 <br/>
 <div align="center" style="margin-top: 20px;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Technology%20is%20best%20when%20it%20brings%20people%20together%20and%20solves%20real%20problems&author=Sachira%20Santhush" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20future%20belongs%20to%20those%20who%20believe%20in%20the%20beauty%20of%20their%20dreams&author=Eleanor%20Roosevelt" />
 </div>
 
 ---
@@ -300,7 +275,7 @@ graph LR
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:E91E63,100:9C27B0" />
 </div>
 
-<h4 align="center">🌾 Thanks for visiting! Let's innovate agriculture technology together! 🚀</h4>
+<h4 align="center">💖 Thanks for visiting! Let's build something amazing together! 🚀</h4>
 
 ---
 
