@@ -1,4 +1,4 @@
-# <div align="center">🌟 WELCOME TO MY AI WORLD 🌟</div>
+# <div align="center">🌟𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝙈𝙔 𝘼𝙄 𝙒𝙊𝙍𝙇𝘿 🌟</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" alt="Header Animation"/>
@@ -7,7 +7,7 @@
 <div align="center">
   <h1>
     <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-    &nbsp;SACHIRA NADEESHARIKA&nbsp;
+    &nbsp;𝙃𝙄, 𝙄 𝘼𝙈 𝙎𝘼𝘾𝙃𝙄𝙍𝘼 𝙉𝘼𝘿𝙀𝙀𝙎𝙃𝘼𝙍𝙄𝙆𝘼&nbsp;
     <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
   </h1>
 </div>
