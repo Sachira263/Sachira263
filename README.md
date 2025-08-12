@@ -7,7 +7,7 @@
 <div align="center">
   <h1>
     <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-    &nbsp;Hi, I'm Vidushan Samarakoon&nbsp;
+    &nbsp;Hi, I'm Sachira Nadeesharika&nbsp;
     <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
   </h1>
 </div>
@@ -17,7 +17,11 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Coding Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="600" alt="Innovation Animation"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400" alt="Tech Animation"/>
 </div>
 
 ---
@@ -304,12 +308,12 @@ graph TD
 </div>
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=VshanX&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=00d4ff&ring_color=ff6b6b"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VshanX&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&card_width=400"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SachiraNadeesharika&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&icon_color=00d4ff&ring_color=ff6b6b"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachiraNadeesharika&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&card_width=400"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VshanX&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=00d4ff&currStreakLabel=ff6b6b&sideNums=c9d1d9&currStreakNum=00d4ff&dates=c9d1d9&sideLabels=c9d1d9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SachiraNadeesharika&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=00d4ff&currStreakLabel=ff6b6b&sideNums=c9d1d9&currStreakNum=00d4ff&dates=c9d1d9&sideLabels=c9d1d9" />
 </div>
 
 ---
@@ -317,7 +321,7 @@ graph TD
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Development Activity & Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VshanX&theme=redical&hide_border=true&bg_color=0d1117&color=ff6b6b&line=00d4ff&point=ff6b6b&area=true&area_color=00d4ff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SachiraNadeesharika&theme=redical&hide_border=true&bg_color=0d1117&color=ff6b6b&line=00d4ff&point=ff6b6b&area=true&area_color=00d4ff" />
 </div>
 
 ### 💻 Weekly Coding Distribution
@@ -335,7 +339,7 @@ graph TD
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Achievements & Recognition
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VshanX&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=MultiLanguage,Commit,PullRequest,Review,Issues,Repositories,Stars" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SachiraNadeesharika&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=MultiLanguage,Commit,PullRequest,Review,Issues,Repositories,Stars" />
 </div>
 
 ### 🏆 Notable Achievements
@@ -443,7 +447,7 @@ graph TD
 ## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> Innovation Philosophy
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Technology%20is%20best%20when%20it%20brings%20people%20together%20and%20solves%20real%20problems&author=Vidushan%20Samarakoon&border=true&animation=fadeIn" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Technology%20is%20best%20when%20it%20brings%20people%20together%20and%20solves%20real%20problems&author=Sachira%20Nadeesharika&border=true&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -455,12 +459,12 @@ graph TD
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Profile Analytics & Engagement
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=VshanX&icon=5&color=gradient" alt="Profile Views"/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVshanX&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="GitHub Hits"/>
+  <img src="https://visitcount.itsvg.in/api?id=SachiraNadeesharika&icon=5&color=gradient" alt="Profile Views"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSachiraNadeesharika&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="GitHub Hits"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VshanX&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SachiraNadeesharika&theme=radical" />
 </div>
 
 ---
