@@ -1,7 +1,7 @@
 # <div align="center">🌟 Welcome to My Digital Universe 🌟</div>
 
 <div align="center">
-  <img src="YOUR_NEW_IMAGE_URL_HERE" width="900" alt="Header Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" alt="Header Animation"/>
 </div>
 
 <div align="center">
