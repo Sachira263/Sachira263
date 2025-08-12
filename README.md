@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=350&lines=🚀+TECH+INNOVATOR+%26+PROBLEM+SOLVER;💻+FULL-STACK+DEVELOPER;🔐+CYBERSECURITY+ENTHUSIAST;🤖+IoT+%26+AI+SPECIALIST;📊+BUSINESS+ANALYSIS+EXPERT;🎨+UI%2FUX+DESIGN+PASSIONATE;🌱+SMART+AGRICULTURE+PIONEER;🌟+LIFELONG+LEARNER+%26+CREATOR" alt="Dynamic Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=400&lines=🚀+EMBEDDED+SYSTEMS+DEVELOPER;💻+FULL-STACK+WEB+DEVELOPER;📱+MOBILE+APP+DEVELOPER;🤖+IoT+%26+SENSOR+INTEGRATION+SPECIALIST;🌱+SMART+AGRICULTURE+INNOVATOR;🔧+ARDUINO+%26+ESP32+EXPERT;🧠+MACHINE+LEARNING+ENGINEER;📊+DATA+SCIENCE+ENTHUSIAST;🌟+MERN+STACK+DEVELOPER" alt="Dynamic Typing" />
 </div>
 
 <div align="center">
@@ -22,6 +22,10 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400" alt="Tech Animation"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500" alt="Embedded Systems Animation"/>
 </div>
 
 ---
@@ -41,12 +45,13 @@
 - 📚 **Developing cutting-edge solutions** for real-world challenges
 - 🚀 **Building innovative projects** that merge technology with agriculture
 
-### 💼 Expertise Areas
+### 💼 Core Expertise Areas
 - 🧑‍💻 **Full-Stack Web Development** (MERN Stack)
-- 🤖 **IoT Systems & Embedded Programming**
-- 🧠 **Machine Learning & AI Integration**
-- 📊 **Business Analysis & Data-Driven Solutions**
-- 🔐 **Cybersecurity & Information Security**
+- 📱 **Mobile Application Development** (React Native, Flutter)
+- 🤖 **Embedded Systems Programming** (Arduino, ESP32)
+- 🔌 **IoT Sensor Integration & Data Collection**
+- 🧠 **Machine Learning & Predictive Analytics**
+- 🌐 **API Development & Microservices Architecture**
 - 🎨 **UI/UX Design & User Experience**
 
 </td>
@@ -84,40 +89,54 @@ vision: |
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> Technology Arsenal
 
-### 💻 Programming Languages
+### 💻 Programming Languages & Core Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,cpp,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,cpp,c&theme=dark" />
 </div>
 
-### 🎨 Frontend Technologies
+### 🎨 Frontend Development Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma,sass,typescript&theme=dark" />
 </div>
 
-### ⚙️ Backend & Databases
+### 📱 Mobile Development Technologies
+<div align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+</div>
+
+### ⚙️ Backend Technologies & Databases
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase,flask&theme=dark" />
 </div>
 
-### 🤖 IoT & Embedded Systems
+### 🤖 Embedded Systems & IoT Development
 <div align="center">
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IoT-FF6B6B?style=for-the-badge&logo=internetofthings&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IoT_Sensors-FF6B6B?style=for-the-badge&logo=internetofthings&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DHT11%2F22-4CAF50?style=for-the-badge&logoColor=white"/>
 </div>
 
-### 🧠 AI & Machine Learning
+### 🧠 Machine Learning & Data Science
 <div align="center">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Random_Forest-2E8B57?style=for-the-badge&logoColor=white"/>
 </div>
 
-### 🛠️ Development Tools
+### 🛠️ Development Tools & Environment
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,androidstudio&theme=dark" />
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Expo_CLI-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 </div>
 
 ---
@@ -137,14 +156,16 @@ vision: |
 
 **AI-powered agriculture solution with real-time IoT integration**
 
-🔹 **Revolutionary Features:**
-- 🌡️ Real-time environmental monitoring with ESP32
-- 🤖 Machine Learning crop prediction (95% accuracy)
-- 📱 Live dashboard with interactive data visualization
-- 🔗 Seamless IoT-to-cloud data pipeline
-- 📊 Advanced analytics and recommendation engine
+🔹 **Technical Implementation:**
+- 🌡️ **ESP32 Microcontroller:** Real-time environmental monitoring
+- 📡 **DHT11/22 Sensors:** Temperature and humidity data collection
+- 💧 **Soil Moisture Sensors:** Advanced soil condition monitoring
+- 🤖 **Random Forest ML Model:** 95% prediction accuracy
+- 📱 **Real-time Dashboard:** Live data visualization and charts
+- 🔗 **HTTP API Integration:** Seamless IoT-to-cloud communication
+- 📊 **MongoDB Database:** Efficient sensor data storage
 
-🔹 **Tech Innovation:** `MERN Stack` `Flask ML API` `ESP32 IoT` `Random Forest ML` `MongoDB` `Real-time Charts`
+🔹 **Tech Innovation:** `MERN Stack` `Flask ML Microservice` `ESP32 IoT` `Arduino IDE` `Random Forest Algorithm` `DHT11/22 Sensors` `MongoDB` `Real-time Data Processing`
 
 🔹 **Impact:** ✅ Deployed & Helping Farmers Make Data-Driven Decisions
 
@@ -194,17 +215,38 @@ vision: |
 </td>
 <td width="50%">
 
-### 🔧 More Innovative Solutions
+### 📱 Smart AgriMobile App
 <img src="https://user-images.githubusercontent.com/74038190/212751381-3e65eba2-7430-4157-b8c2-7b8fc1e2b8f4.gif" width="300" align="right">
+
+**Cross-platform mobile companion for smart farming**
+
+🔹 **Mobile Features:**
+- 📱 **Real-time Sensor Monitoring** - Live crop and soil data
+- 🌡️ **Environmental Dashboard** - Temperature, humidity tracking
+- 📊 **ML-Powered Recommendations** - Instant crop suggestions
+- 🔔 **Smart Notifications** - Alerts for optimal farming conditions
+- 📍 **GPS Field Mapping** - Location-based agricultural insights
+- 📈 **Analytics & Reports** - Historical data visualization
+
+🔹 **Technology:** `React Native` `Expo` `REST API Integration` `Real-time Charts` `Push Notifications`
+
+🔹 **Status:** 🔄 In Development & Testing
+
+</td>
+<td width="50%">
+
+### 🔧 More Innovative Solutions
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300" align="right">
 
 **Portfolio of specialized applications**
 
 🔹 **Project Categories:**
-- 🏪 **E-commerce Solutions** - Custom online stores
+- 🏪 **E-commerce Solutions** - Custom online stores & mobile apps
 - 📊 **Data Visualization Tools** - Interactive dashboards  
 - 🔐 **Security Applications** - Authentication systems
-- 🎮 **Interactive Web Apps** - Engaging user experiences
-- 📱 **Mobile-First Designs** - Responsive applications
+- 🎮 **Interactive Applications** - Mobile games & utilities
+- 📱 **Cross-Platform Apps** - React Native & Flutter projects
+- 🤖 **IoT Mobile Controllers** - ESP32 device management apps
 
 🔹 **Continuous Innovation:** Always working on cutting-edge solutions
 
@@ -226,21 +268,21 @@ vision: |
 
 ```mermaid
 graph TD
-    A[🔐 Advanced Cybersecurity] --> B[SOC Operations]
-    A --> C[Ethical Hacking]
-    A --> D[Security Architecture]
+    A[🤖 Advanced Embedded Systems] --> B[ARM Microcontrollers]
+    A --> C[Real-time Operating Systems]
+    A --> D[Industrial IoT Protocols]
     
-    E[☁️ Cloud & DevOps] --> F[AWS Solutions Architect]
-    E --> G[Kubernetes & Docker]
-    E --> H[CI/CD Pipeline Mastery]
+    E[📱 Mobile Development Mastery] --> F[React Native Advanced]
+    E --> G[Flutter & Dart Expertise]
+    E --> H[Cross-Platform UI/UX]
     
-    I[🤖 AI & Machine Learning] --> J[Deep Learning]
-    I --> K[Computer Vision]
-    I --> L[Natural Language Processing]
+    I[☁️ Cloud & DevOps] --> J[AWS IoT Core]
+    I --> K[Docker Containerization]
+    I --> L[CI/CD for Mobile Apps]
     
-    M[🌐 IoT & Edge Computing] --> N[Industry 4.0]
-    M --> O[Edge AI]
-    M --> P[5G Integration]
+    M[🧠 Advanced Machine Learning] --> N[Deep Learning for IoT]
+    M --> O[Edge AI Computing]
+    M --> P[Mobile ML Integration]
 ```
 
 ### 📚 Mastery Progress Tracker
@@ -249,24 +291,38 @@ graph TD
 <tr>
 <td width="50%">
 
-**🔐 Cybersecurity Excellence Track**
-- ✅ Network Security Fundamentals
-- ✅ Ethical Hacking & Penetration Testing
-- 🔄 SOC Analyst Certification Path
-- 🔄 OWASP Security Implementation
-- ⏳ Advanced Incident Response
-- ⏳ Digital Forensics & Investigation
+**🤖 Embedded Systems & IoT Track**
+- ✅ Arduino Programming & ESP32 Development
+- ✅ Sensor Integration (DHT11/22, Soil Moisture)
+- ✅ IoT Data Communication Protocols
+- 🔄 ARM Cortex Microcontroller Programming
+- 🔄 Real-time Systems Design
+- ⏳ Industrial IoT Protocol Implementation
+- ⏳ Edge Computing Solutions
 
 </td>
 <td width="50%">
 
-**☁️ Cloud Architecture Track**
-- ✅ Linux System Administration
-- ✅ Git Advanced Workflows
-- 🔄 AWS Solutions Architect
-- 🔄 Docker Containerization Mastery
-- ⏳ Kubernetes Orchestration
-- ⏳ Terraform Infrastructure as Code
+**📱 Mobile Development Track**
+- ✅ React Native Fundamentals
+- ✅ Cross-Platform UI Development
+- ✅ Mobile API Integration
+- 🔄 Flutter & Dart Programming
+- 🔄 Native Module Development
+- ⏳ App Store Deployment
+- ⏳ Mobile Performance Optimization
+
+</td>
+<td width="50%">
+
+**☁️ Web Development & Cloud Track**
+- ✅ MERN Stack Full Development
+- ✅ RESTful API Design & Implementation
+- ✅ Database Design & Optimization
+- 🔄 AWS IoT Core Integration
+- 🔄 Docker Containerization
+- ⏳ GraphQL Advanced Patterns
+- ⏳ Progressive Web Applications
 
 </td>
 </tr>
@@ -276,24 +332,26 @@ graph TD
 <tr>
 <td width="50%">
 
-**🤖 AI & ML Specialization**
+**🧠 Machine Learning & Data Science Track**
 - ✅ Machine Learning Fundamentals
-- ✅ Data Science with Python
-- 🔄 Deep Learning with TensorFlow
-- 🔄 Computer Vision Applications
-- ⏳ NLP & Language Models
-- ⏳ MLOps & Model Deployment
+- ✅ Data Science with Python & Pandas
+- ✅ Random Forest & Classification Algorithms
+- 🔄 Deep Learning for IoT Applications
+- 🔄 Computer Vision for Agriculture
+- ⏳ Edge AI & TinyML Implementation
+- ⏳ Sensor Data Analytics & Prediction
 
 </td>
 <td width="50%">
 
-**🌐 IoT Innovation Track**
-- ✅ Embedded Systems Programming
-- ✅ Sensor Integration & Data Collection
-- 🔄 Edge Computing Solutions
-- 🔄 Industrial IoT Applications
-- ⏳ 5G & IoT Integration
-- ⏳ Smart City Technologies
+**🌐 Advanced Development Track**
+- ✅ Full-Stack JavaScript Development
+- ✅ Mobile-First Design Principles
+- ✅ Real-time Data Processing
+- 🔄 Microservices Architecture
+- 🔄 Mobile App Security & Authentication
+- ⏳ DevOps for Mobile & IoT Applications
+- ⏳ Scalable System Design
 
 </td>
 </tr>
@@ -342,12 +400,14 @@ graph TD
   <img src="https://github-profile-trophy.vercel.app/?username=SachiraNadeesharika&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&title=MultiLanguage,Commit,PullRequest,Review,Issues,Repositories,Stars" />
 </div>
 
-### 🏆 Notable Achievements
-- 🌾 **Smart Agriculture Innovation:** Developed IoT-based crop recommendation system
-- 🎯 **95% ML Model Accuracy:** Achieved high precision in agricultural predictions
-- 🏛️ **Community Impact:** Created digital governance solutions for local communities
-- 📊 **Data-Driven Solutions:** Built real-time analytics dashboards
-- 🔧 **Full-Stack Mastery:** Expertise across complete development lifecycle
+### 🏆 Technical Achievements
+- 🌾 **Smart Agriculture Innovation:** Developed complete IoT-based crop recommendation system
+- 📱 **Cross-Platform Mobile Development:** Building React Native apps for agricultural solutions
+- 🎯 **95% ML Model Accuracy:** Achieved high precision in agricultural predictions using Random Forest
+- 🔌 **ESP32 Integration Master:** Successfully implemented real-time sensor data collection
+- 📊 **Full-Stack Excellence:** Built end-to-end MERN applications with mobile integration
+- 🤖 **IoT-Mobile Integration:** Seamlessly connected embedded systems with mobile applications
+- 📱 **Real-time Mobile Systems:** Created live mobile dashboards with continuous sensor data streaming
 
 ---
 
@@ -408,35 +468,38 @@ graph TD
 <tr>
 <td width="50%">
 
-### 🎯 Professional Interests
-- 🌱 **Sustainable Technology** - Building eco-friendly solutions
-- 🤖 **IoT & Smart Systems** - Connecting the physical and digital worlds
-- 🔬 **Research & Innovation** - Exploring cutting-edge technologies
-- 📊 **Data-Driven Decision Making** - Leveraging analytics for insights
-- 🌍 **Global Impact Projects** - Creating solutions that matter
+### 🎯 Professional Focus Areas
+- 🌱 **Smart Agriculture Technology** - Building IoT and mobile solutions for sustainable farming
+- 🤖 **Embedded Systems Development** - Creating efficient sensor-based applications
+- 📱 **Cross-Platform Mobile Development** - Crafting seamless mobile experiences
+- 🔬 **IoT Research & Innovation** - Exploring cutting-edge sensor technologies
+- 📊 **Real-time Data Processing** - Leveraging sensor data for intelligent mobile decisions
+- 🌍 **Sustainable Tech Solutions** - Developing environmentally conscious applications
 
-### 🎨 Creative Dimensions
-- 🖌️ **Digital Innovation** - Crafting pixel-perfect user experiences
-- 📸 **Technology Documentation** - Sharing knowledge through visuals
-- ✍️ **Technical Communication** - Making complex concepts accessible
-- 🎭 **User-Centered Design** - Building intuitive and engaging interfaces
+### 🎨 Technical Creativity
+- 🖌️ **IoT System Design** - Architecting comprehensive embedded solutions
+- 📱 **Mobile UI/UX Innovation** - Creating intuitive mobile interfaces for complex IoT systems
+- 📸 **Technical Documentation** - Creating detailed project documentation
+- ✍️ **Knowledge Sharing** - Writing tutorials on ESP32, React Native, and sensor integration
+- 🎭 **User-Centered Design** - Building intuitive mobile interfaces for embedded systems
 
 </td>
 <td width="50%">
 
-### 🔮 Future Aspirations
-- 🚀 **Tech Entrepreneur** - Launching innovative startups
-- 🌍 **Global Technology Leader** - Influencing industry standards
-- 🏆 **Innovation Catalyst** - Driving technological advancement
-- 🤝 **Community Builder** - Fostering tech education and growth
-- 📈 **Continuous Evolution** - Always pushing boundaries
+### 🔮 Future Technical Goals
+- 🚀 **IoT & Mobile Startup Founder** - Launching innovative embedded system products with mobile apps
+- 🌍 **Smart Agriculture Leader** - Pioneering agricultural technology solutions across web and mobile
+- 📱 **Cross-Platform Development Expert** - Mastering React Native and Flutter ecosystems
+- 🏆 **Embedded-Mobile Integration Specialist** - Becoming a recognized expert in IoT-mobile connectivity
+- 🤝 **Tech Community Builder** - Fostering embedded systems, IoT, and mobile development education
+- 📈 **Continuous Innovation** - Always pushing the boundaries of sensor-mobile integration
 
-### 🎪 Personal Touch
-- 🌟 **Peak Performance:** Late-night coding marathons
-- 🍕 **Creative Fuel:** Coffee, music, and determination
-- 🎯 **Life Motto:** "Innovate today, transform tomorrow"
-- 🦄 **Hidden Superpower:** Debugging complex IoT systems
-- 🎸 **Beyond Code:** Music production and creative arts
+### 🎪 Behind the Code
+- 🌟 **Peak Performance:** Late-night ESP32-mobile app integration sessions
+- 🍕 **Creative Fuel:** Coffee, electronic music, breadboards, and mobile simulators
+- 🎯 **Life Motto:** "Connect sensors, build mobile experiences, change lives"
+- 🦄 **Hidden Superpower:** Debugging complex sensor-mobile communication issues
+- 🎸 **Beyond Coding:** Electronics tinkering, mobile UI design, and DIY IoT mobile projects
 
 </td>
 </tr>
@@ -447,11 +510,11 @@ graph TD
 ## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> Innovation Philosophy
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Technology%20is%20best%20when%20it%20brings%20people%20together%20and%20solves%20real%20problems&author=Sachira%20Nadeesharika&border=true&animation=fadeIn" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20IoT%20solutions%20are%20born%20when%20sensors%20meet%20intelligence%20and%20compassion&author=Sachira%20Nadeesharika&border=true&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20future%20belongs%20to%20those%20who%20combine%20technical%20excellence%20with%20human%20empathy&author=Innovation%20Mindset&border=true&animation=fadeIn" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Innovation%20in%20embedded%20systems%20happens%20when%20we%20connect%20the%20physical%20world%20with%20digital%20intelligence&author=IoT%20Philosophy&border=true&animation=fadeIn" />
 </div>
 
 ---
