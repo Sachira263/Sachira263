@@ -7,7 +7,7 @@
 <div align="center">
   <h1>
     <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-    &nbsp;Hi, I'm SACHIRA NADEESHARIKA&nbsp;
+    &nbsp;Hi, I'M SACHIRA NADEESHARIKA&nbsp;
     <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
   </h1>
 </div>
@@ -72,11 +72,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Core Expertise
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500" alt="Embedded Systems Animation"/>
-</div>
 
 ### 🌐 Full-Stack Web Development
 - **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
@@ -108,11 +104,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30"> GitHub Stats
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
-</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachira263&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
