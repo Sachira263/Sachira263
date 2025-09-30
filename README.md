@@ -17,7 +17,21 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="600" alt="Innovation Animation"/>
 </div
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Featured Skills
 
+```javascript
+const sachira = {
+    fullStackDevelopment: ["MERN Stack", "REST APIs", "Database Design"],
+    mobileApps: ["React Native", "Flutter", "Cross-Platform Development"],
+    iotEmbedded: ["ESP32", "Arduino", "Sensor Integration"],
+    machineLearning: ["Scikit-learn", "Data Science", "Predictive Models"],
+    tools: ["Git", "VS Code", "Postman", "Arduino IDE"],
+    databases: ["MongoDB", "MySQL", "Firebase"],
+    currentFocus: "Building innovative IoT solutions with mobile integration"
+};
+```
+
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> Technical Skills
 
@@ -108,21 +122,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Featured Skills
 
-```javascript
-const sachira = {
-    fullStackDevelopment: ["MERN Stack", "REST APIs", "Database Design"],
-    mobileApps: ["React Native", "Flutter", "Cross-Platform Development"],
-    iotEmbedded: ["ESP32", "Arduino", "Sensor Integration"],
-    machineLearning: ["Scikit-learn", "Data Science", "Predictive Models"],
-    tools: ["Git", "VS Code", "Postman", "Arduino IDE"],
-    databases: ["MongoDB", "MySQL", "Firebase"],
-    currentFocus: "Building innovative IoT solutions with mobile integration"
-};
-```
-
----
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
