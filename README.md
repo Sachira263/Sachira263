@@ -16,6 +16,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=350&lines=🚀+FULL-STACK+WEB+DEVELOPER;📱+MOBILE+APP+DEVELOPER;🤖+IoT+%26+EMBEDDED+SYSTEMS;🧠+MACHINE+LEARNING+ENGINEER;🌟+MERN+STACK+DEVELOPER;🔧+ESP32+%26+ARDUINO+EXPERT" alt="Dynamic Typing" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=350&lines=🚀+FULL-STACK+WEB+DEVELOPER;📱+MOBILE+APP+DEVELOPER;🤖+IoT+%26+EMBEDDED+SYSTEMS;🧠+MACHINE+LEARNING+ENGINEER;🌟+MERN+STACK+DEVELOPER;🔧+ESP32+%26+ARDUINO+EXPERT" alt="Dynamic Typing" />
+</div>
+
 <table>
   <tr>
     <td width="65%" valign="top">
