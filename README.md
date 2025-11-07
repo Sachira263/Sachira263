@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2t1eXhqdG1kZ2c2eHcyOHhjcTZuMnZtYmk2bzRjeDNrbGNzYTZqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TRQ2jY MORTy5/giphy.gif" width="900" alt="Header Animation"/>
-</div>
-
-<div align="center">
   <h1>
-    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+    <img src="newone.jpg" width="900" alt="Header Banner" />
     &nbsp;𝙃𝙄, 𝙄 𝘼𝙈 𝙎𝘼𝘾𝙃𝙄𝙍𝘼 𝙉𝘼𝘿𝙀𝙀𝙎𝙃𝘼𝙍𝙄𝙆𝘼&nbsp;
     <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
   </h1>
