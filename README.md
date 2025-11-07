@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" alt="Header Animation"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2t1eXhqdG1kZ2c2eHcyOHhjcTZuMnZtYmk2bzRjeDNrbGNzYTZqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TRQ2jY MORTy5/giphy.gif" width="900" alt="Header Animation"/>
 </div>
 
 <div align="center">
@@ -26,10 +26,35 @@
       - 🔭 I’m currently working on innovative IoT solutions with mobile integration.
       - 🌱 I’m always learning new technologies and improving my skills.
       - 💬 Ask me about: **MERN Stack, React Native, IoT, or ESP32!**
+      
+      <br>
+      
+      ## 🤝 Connect With Me
+      
+      <p align="left">
+        <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"/>
+        </a>
+        <a href="mailto:YOUR-EMAIL@gmail.com" target="blank">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My Email"/>
+        </a>
+        <a href="https://stackoverflow.com/users/YOUR-USER-ID/YOUR-USERNAME" target="blank">
+          <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="My Stack Overflow"/>
+        </a>
+      </p>
+      
     </td>
     <td width="35%" valign="top">
+      
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachira263&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachira263&layout=compact&theme=radical"/>
+      
+      <br><br>
+      
+      <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=Sachira263&color=00D4FF&style=for-the-badge" alt="Profile Views"/>
+      </p>
+      
     </td>
   </tr>
 </table>
@@ -50,7 +75,7 @@
 
 ### 📱 Mobile App Development
 <div align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="httpsS://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
@@ -62,8 +87,8 @@
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IoT_Sensors-FF6B6B?style=for-the-badge&logo=internetofthings&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DHT11%2F22-4CAF50?style=for-the-badge&logoColor=white"/>
+  <img src="httpsIAm - an AI enthusiast?style=for-the-badge&logo=internetofthings&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DHT11%2F22-4CAF50?style=for-THE-badge&logoColor=white"/>
 </div>
 
 ### 🧠 Machine Learning & Data Science
@@ -115,7 +140,7 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="httpss://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
 <div align="center">
