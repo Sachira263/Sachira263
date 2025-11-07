@@ -61,6 +61,29 @@ const sachira = {
 };
 ```
 ---
+<h3 align="center">📊 GitHub Journey</h3>
+
+<div align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DhananjalieW&theme=tokyonight&show_icons=true&count_private=true"/>
+  
+
+<br/>
+<br/>
+
+  
+  
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DhananjalieW&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> My Tech Stack
 
