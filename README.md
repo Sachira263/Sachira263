@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="font-size: 3em;">
    
-              𝙃𝙄, 𝙄 𝘼𝙈 𝙎𝘼𝘾𝙃𝙄𝙍𝘼 𝙉𝘼𝘿𝙀𝙀𝙎𝙃𝘼𝙍𝙄𝙆𝘼
+          𝙃𝙄, 𝙄 𝘼𝙈 𝙎𝘼𝘾𝙃𝙄𝙍𝘼 𝙉𝘼𝘿𝙀𝙀𝙎𝙃𝘼𝙍𝙄𝙆𝘼
    
   </h1>
 </div>
@@ -16,26 +16,50 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=350&lines=🚀+FULL-STACK+WEB+DEVELOPER;📱+MOBILE+APP+DEVELOPER;🤖+IoT+%26+EMBEDDED+SYSTEMS;🧠+MACHINE+LEARNING+ENGINEER;🌟+MERN+STACK+DEVELOPER;🔧+ESP32+%26+ARDUINO+EXPERT" alt="Dynamic Typing" />
 </div>
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> About Me
-      
-      I am a versatile **Full-Stack Developer** with a deep passion for bridging the gap between software and hardware. My expertise spans from building responsive web and mobile applications using the **MERN Stack** and **React Native** to engineering complex **IoT & Embedded Systems** with **ESP32** and **Arduino**.
-      
-      I am currently focused on integrating **Machine Learning** models into my projects to create smarter, data-driven solutions. I thrive on building innovative and practical applications that solve real-world problems.
-      
-      - 🔭 I’m currently working on innovative IoT solutions with mobile integration.
-      - 🌱 I’m always learning new technologies and improving my skills.
-      - 💬 Ask me about: **MERN Stack, React Native, IoT, or ESP32!**
-    </td>
-    <td width="35%" valign="top">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachira263&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachira263&layout=compact&theme=radical"/>
-    </td>
-  </tr>
-</table>
+<div align="center" style="margin-top:15px;">
+  <img src="https://komarev.com/ghpvc/?username=Sachira263&label=Profile%20Views&style=for-the-badge&color=E91E63&labelColor=000000" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Sachira263?label=Followers&style=for-the-badge&color=9C27B0&labelColor=000000" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-E91E63?style=for-the-badge&labelColor=000000" alt="Status" />
+</div>
+<br/>
 
+```javascript
+const sachira = {
+  name: "Sachira Nadeesharika",
+  location: "Sri Lanka 🇱🇰",
+  email: "sachirasanthus81@gmail.com", 
+  
+  languages: ["JavaScript", "Python", "Java", "C++", "C", "PHP"],
+  
+  passionateAbout: [
+    "Full-Stack Development (MERN)", 
+    "IoT & Embedded Systems", 
+    "Mobile Applications", 
+    "Machine Learning",
+    "Automation Technology"
+  ],
+  
+  techStack: {
+    web: ["React.js", "Node.js", "Express.js", "Laravel", "Tailwind CSS"],
+    mobile: ["React Native", "Flutter"],
+    iot: ["Arduino", "ESP32", "Raspberry Pi", "Sensors"],
+    ml: ["Scikit-learn", "Pandas", "NumPy"],
+    databases: ["MongoDB", "MySQL"],
+    tools: ["Git", "Docker", "Figma", "Postman", "VS Code", "Arduino IDE"]
+  },
+  
+  currentlyLearning: ["Advanced Laravel", "MERN Stack with Docker", "Automation Engineering"],
+  
+  hobbies: [
+    "Building Electronics Projects 🤖",
+    "Mobile Photography 📸",
+    "Learning New Tech",
+    "Coding"
+  ],
+  
+  motto: "Where code meets creativity, and ideas become reality 🚀" // From your previous README
+};
+```
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> My Tech Stack
