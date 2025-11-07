@@ -80,49 +80,35 @@ const sachira = {
 </tr>
 </table>
 </div>
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> My Tech Stack
+<h3 align="center">🛠️ Technology Stack</h3>
 
-### 💻 Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,c,php,html,css&theme=dark" />
+
+**Development Environments & Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,webstorm,idea,figma,ps,ai" />
+
+**Programming Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,dart,cpp" />
+
+**Frontend Technologies**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,html,css,tailwind,bootstrap,sass" />
+
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,dotnet,postgresql,mongodb,firebase" />
+
+**Mobile & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,aws,gcp,docker,kubernetes,vercel,netlify" />
+
+**Development Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,npm,yarn,webpack,vite" />
 </div>
 
-### 🌐 Web Development
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,tailwind,bootstrap&theme=dark" />
-</div>
-
-### 📱 Mobile App Development
-<div align="center">
-  <img src="httpsS://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cross_Platform-4CAF50?style=for-the-badge&logoColor=white"/>
-</div>
-
-### 🤖 IoT & Embedded Systems
-<div align="center">
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
-  <img src="httpsIAm - an AI enthusiast?style=for-the-badge&logo=internetofthings&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DHT11%2F22-4CAF50?style=for-THE-badge&logoColor=white"/>
-</div>
-
-### 🧠 Machine Learning & Data Science
-<div align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Random_Forest-2E8B57?style=for-the-badge&logoColor=white"/>
-</div>
-
-### 🛠️ Development Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker&theme=dark" />
-</div>
 
 ---
 
