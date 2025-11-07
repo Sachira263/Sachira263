@@ -1,5 +1,3 @@
-# <div align="center">𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝙈𝙔 GIT HUB</div>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" alt="Header Animation"/>
 </div>
@@ -8,32 +6,37 @@
   <h1>
     <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
     &nbsp;𝙃𝙄, 𝙄 𝘼𝙈 𝙎𝘼𝘾𝙃𝙄𝙍𝘼 𝙉𝘼𝘿𝙀𝙀𝙎𝙃𝘼𝙍𝙄𝙆𝘼&nbsp;
-  
+    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
   </h1>
 </div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=350&lines=🚀+FULL-STACK+WEB+DEVELOPER;📱+MOBILE+APP+DEVELOPER;🤖+IoT+%26+EMBEDDED+SYSTEMS;🧠+MACHINE+LEARNING+ENGINEER;🌟+MERN+STACK+DEVELOPER;🔧+ESP32+%26+ARDUINO+EXPERT" alt="Dynamic Typing" />
 </div>
 
-
-  
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Featured Skills
-
-```javascript
-const sachira = {
-    fullStackDevelopment: ["MERN Stack", "REST APIs", "Database Design"],
-    mobileApps: ["React Native", "Flutter", "Cross-Platform Development"],
-    iotEmbedded: ["ESP32", "Arduino", "Sensor Integration"],
-    machineLearning: ["Scikit-learn", "Data Science", "Predictive Models"],
-    tools: ["Git", "VS Code", "Postman", "Arduino IDE"],
-    databases: ["MongoDB", "MySQL", "Firebase"],
-    currentFocus: "Building innovative IoT solutions with mobile integration"
-};
-```
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> About Me
+      
+      I am a versatile **Full-Stack Developer** with a deep passion for bridging the gap between software and hardware. My expertise spans from building responsive web and mobile applications using the **MERN Stack** and **React Native** to engineering complex **IoT & Embedded Systems** with **ESP32** and **Arduino**.
+      
+      I am currently focused on integrating **Machine Learning** models into my projects to create smarter, data-driven solutions. I thrive on building innovative and practical applications that solve real-world problems.
+      
+      - 🔭 I’m currently working on innovative IoT solutions with mobile integration.
+      - 🌱 I’m always learning new technologies and improving my skills.
+      - 💬 Ask me about: **MERN Stack, React Native, IoT, or ESP32!**
+    </td>
+    <td width="35%" valign="top">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachira263&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachira263&layout=compact&theme=radical"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> Technical Skills
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> My Tech Stack
 
 ### 💻 Programming Languages
 <div align="center">
@@ -79,7 +82,7 @@ const sachira = {
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Core Expertise
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Core Competencies
 
 ### 🌐 Full-Stack Web Development
 - **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
@@ -110,19 +113,6 @@ const sachira = {
 - **Predictive Analytics** - Real-world problem solving
 
 ---
-
-
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachira263&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachira263&layout=compact&theme=radical"/>
-</div>
-
-<!-- Replace 'YOUR_GITHUB_USERNAME' with your actual GitHub username -->
-
----
-
-
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
