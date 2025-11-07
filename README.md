@@ -3,7 +3,6 @@
 <div align="center">
   <h1>
     <img src="newone.png" width="900" alt="Header Banner" />
-    &nbsp;𝙃𝙄, 𝙄 𝘼𝙈 𝙎𝘼𝘾𝙃𝙄𝙍𝘼 𝙉𝘼𝘿𝙀𝙀𝙎𝙃𝘼𝙍𝙄𝙆𝘼&nbsp;
   </h1>
 </div>
 
