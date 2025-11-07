@@ -8,7 +8,7 @@
 
 <div align="center">
   <h1>
-    <img src="newone.png" width="900" alt="Header Banner" />
+    <img src="newimage.png" width="900" alt="Header Banner" />
   </h1>
 </div>
 
