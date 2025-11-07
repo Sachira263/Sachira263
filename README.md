@@ -22,35 +22,10 @@
       - 🔭 I’m currently working on innovative IoT solutions with mobile integration.
       - 🌱 I’m always learning new technologies and improving my skills.
       - 💬 Ask me about: **MERN Stack, React Native, IoT, or ESP32!**
-      
-      <br>
-      
-      ## 🤝 Connect With Me
-      
-      <p align="left">
-        <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"/>
-        </a>
-        <a href="mailto:YOUR-EMAIL@gmail.com" target="blank">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My Email"/>
-        </a>
-        <a href="https://stackoverflow.com/users/YOUR-USER-ID/YOUR-USERNAME" target="blank">
-          <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="My Stack Overflow"/>
-        </a>
-      </p>
-      
     </td>
     <td width="35%" valign="top">
-      
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachira263&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachira263&layout=compact&theme=radical"/>
-      
-      <br><br>
-      
-      <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=Sachira263&color=00D4FF&style=for-the-badge" alt="Profile Views"/>
-      </p>
-      
     </td>
   </tr>
 </table>
