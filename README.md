@@ -1,9 +1,5 @@
 <div align="center">
-  <h1 style="font-size: 3em;">
-   
-               𝙃𝙄, 𝙄 𝘼𝙈 𝙎𝘼𝘾𝙃𝙄𝙍𝘼 𝙉𝘼𝘿𝙀𝙀𝙎𝙃𝘼𝙍𝙄𝙆𝘼
-   
-  </h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&color=0:000080,100:000080&text=Hello,%20I'm%20Sachira Nadeesharika&fontColor=FFFFFF&fontSize=50&fontAlign=50&animation=twinkling&stroke=FFFFFF&strokeWidth=1" />
 </div>
 
 <div align="center">
